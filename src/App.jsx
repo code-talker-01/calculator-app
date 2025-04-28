@@ -4,7 +4,7 @@ import "./App.css";
 
 const App = () => {
   return (
-    <div className="rounded-4xl">
+    <div className=" bg-stone-800">
       <div className="flex justify-center items-center h-screen ">
         <Container></Container>
       </div>
